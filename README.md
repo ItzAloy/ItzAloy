@@ -33,5 +33,4 @@
 <h1 align="left" >GitHub Stats:</h1>
 
 ![ItzAloy Stats](https://github-readme-stats.vercel.app/api?username=ItzAloy&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ItzAloy&theme=algolia&short_numbers=true)](https://git.io/streak-stats)
 ![ItzAloy Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAloy&theme=algolia&show_icons=true&hide_border=false&layout=compact)
