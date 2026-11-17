@@ -29,8 +29,3 @@
 ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-
-<h1 align="left" >GitHub Stats:</h1>
-
-![ItzAloy Stats](https://github-readme-stats.vercel.app/api?username=ItzAloy&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-![ItzAloy Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAloy&theme=algolia&show_icons=true&hide_border=false&layout=compact)
