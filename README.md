@@ -68,3 +68,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-streak-fast.githuh-streak.workers.dev/api/ItzAloy)
+
+</div>
